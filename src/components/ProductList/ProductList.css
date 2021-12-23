@@ -1,0 +1,11 @@
+.product-list {
+  @apply flex my-4 justify-between;
+}
+
+.product-item {
+  @apply shadow-md p-4 m-2;
+}
+
+.product-desc {
+  @apply flex justify-between py-2;
+}

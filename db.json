@@ -1,0 +1,31 @@
+{
+  "product": [
+    {
+      "productName": "Intelligent",
+      "price": "181.00",
+      "stock": 79073,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/people",
+      "id": "1"
+    },
+    {
+      "productName": "Handcrafted",
+      "price": "296.00",
+      "stock": 76248,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/sports",
+      "id": "2"
+    },
+    {
+      "productName": "Generic Cotton",
+      "price": "575.00",
+      "stock": 89929,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "categoryId": 2,
+      "image": "http://placeimg.com/640/480/tech",
+      "id": "3"
+    }
+  ]
+}
